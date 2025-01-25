@@ -17,3 +17,5 @@ Location of the crime is still unknown - the room must have been empty when it h
 
 Pistas:
 Go back and check the gazebo in the park
+
+Perhaps we missed a detail in the school.
