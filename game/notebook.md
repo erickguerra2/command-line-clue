@@ -19,3 +19,5 @@ Pistas:
 Go back and check the gazebo in the park
 
 Perhaps we missed a detail in the school.
+
+Go to the stockroom in the shops.
