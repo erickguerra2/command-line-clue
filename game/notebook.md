@@ -1,7 +1,7 @@
 # Detective's Notebook
 
 ## Suspects
-- [ ] The Teacher
+- [x] The Teacher
 - [ ] The Innkeeper
 - [ ] The Journalist
 
@@ -14,3 +14,6 @@
 *Use this space to record your findings and deductions...*
 
 Location of the crime is still unknown - the room must have been empty when it happened...
+
+Pistas:
+Go back and check the gazebo in the park
